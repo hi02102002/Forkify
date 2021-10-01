@@ -1,0 +1,24 @@
+{
+  "name": "forki",
+  "version": "1.0.0",
+  "description": "nothing",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "hoang huy",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.15.0",
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.42.0"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.15.4",
+    "config.js": "^0.1.0",
+    "core-js": "^3.18.0",
+    "fractional": "^1.0.0",
+    "img": "^3.0.3"
+  }
+}
